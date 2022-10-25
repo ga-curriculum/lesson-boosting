@@ -2,15 +2,6 @@
 
 ---
 
-## Materials We Provide
-
-
-| Topic | Description | Link |
-| --- | --- | --- |
-| Lesson | Boosting | [Link](./introduction-to-boosting.ipynb)|
-
----
-
 ## Learning Objectives
 
 *After this lesson, students will be able to:*
